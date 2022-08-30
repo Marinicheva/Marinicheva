@@ -30,7 +30,7 @@
 
 <div>
 <h2>Моя статистика:</h2>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Marinicheva" />
+<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=Marinicheva" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinicheva&layout=compact" />
 
 </div>
