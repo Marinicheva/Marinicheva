@@ -15,6 +15,12 @@
 </p>
 
 <div>
+<h3>Как со мной связаться:</h3>
+<img width="20" height="20" src="https://img.icons8.com/emoji/48/000000/e-mail.png" /> <a href="mailto:marinicheva-er@yandex.ru">marinicheva-er@yandex.ru</a><br>
+<img width="20" height="20" src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" /> marri_nich
+</div>
+
+<div>
 <h2>Мой стек:</h2>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -28,9 +34,9 @@
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
-<div>
-<h2>Моя статистика:</h2>
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=Marinicheva" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinicheva&layout=compact" />
 
+<div>
+  <h2>Моя статистика:</h2>
+  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=Marinicheva" />
+  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinicheva&layout=compact" />
 </div>
