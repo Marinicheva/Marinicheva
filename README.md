@@ -15,7 +15,7 @@
 </p>
 
 <div>
-<h3>Как со мной связаться:</h3>
+<h3>Как со мной связаться</h3>
 <img width="20" height="20" src="https://img.icons8.com/emoji/48/000000/e-mail.png" /> <a href="mailto:marinicheva-er@yandex.ru">marinicheva-er@yandex.ru</a><br>
 <img width="20" height="20" src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" /> marri_nich <br>
 <img width="20" height="20" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/> <a href="https://www.linkedin.com/in/marinicheva-ekaterina/">Мой профиль на LinkedIn</a>
