@@ -30,10 +30,3 @@
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
-
-
-<div>
-  <h2>Моя статистика:</h2>
-  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=Marinicheva" />
-  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinicheva&layout=compact" />
-</div>
